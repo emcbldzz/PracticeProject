@@ -1,0 +1,6 @@
+	----student report----
+        total_score=701
+        max_score=100
+        min_score=73
+        avg_score=87.6
+        median_score=88.5

@@ -1,0 +1,9 @@
+Project 2 - File IO Student Report
+
+The student raw report will be from a txt file including -
+Student Name, Score, Gender
+
+The summary report needs to be print and written to a new file including -
+avg score, total score, mean score, highest/lowest score, median score
+
+Need to use Student Class
